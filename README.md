@@ -1,4 +1,4 @@
-# 33info-platform-frontend
+# frontend
 
 
 ## Build Setup
